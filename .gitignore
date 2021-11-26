@@ -1,0 +1,14 @@
+postgres/
+pgadmin/sessions/
+pgadmin/pgadmin4.db*
+
+# Byte-compiled
+__pycache__/
+*.py[cod]
+*$py.class
+
+.vscode/
+app/test.db
+
+# copilot
+infrastructure
